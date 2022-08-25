@@ -1,0 +1,11 @@
+Version 0.2 "prototype game" =>
+    - Interactions avec objet sur carte
+    - Refonte graphique
+    - Nouveau items
+
+__________________________________________________________________________________________________
+Prochaine màj :
+    - système de craft
+    - animation de mouvement
+    - endurance, énergie, faim et vie
+    - mort
