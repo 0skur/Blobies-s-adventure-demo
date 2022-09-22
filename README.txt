@@ -12,3 +12,5 @@ Infos :
         - les branches
         - les petites pierres
     - Pour intèragir, il vous suffit d'être suffisament près de l'objet avec lequel vous voulez intèragir (pour être plus précis, la distance est de 1.5 bloc)
+-Voici le lien du jeu :
+    - https://0skur.github.io/Blobies-s-adventure-demo/
